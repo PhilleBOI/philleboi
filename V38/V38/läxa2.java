@@ -6,7 +6,7 @@ public class läxa2 {
 	public static void main(final String[] args) {
 			
 			final Scanner input = new Scanner(System.in);
-			int tal1 = 0, tal2 = 0, tal3 = 0, tal4 = 0, tal5 = 0;
+			int tal1= 0, tal2 = 0, tal3 = 0, tal4 = 0, tal5 = 0;
 			float sum;
 	
 			System.out.println("Skriv 5 heltal");
