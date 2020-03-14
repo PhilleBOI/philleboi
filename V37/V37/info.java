@@ -34,6 +34,7 @@ public class info {
 		String namn6 = input.nextLine();
 		
 		System.out.println("\nINFORMATION:");
+		
 		System.out.println("\nNAMN:\t\t" + namn1 + "\n≈LDER:\t\t" + namn2 + "\nADRESS:\t\t" + namn3 + "\n\t\t" + namn4 + "\t" + namn5 + "\nTELEFON:\t" + namn6);
 		
 	}

@@ -2,6 +2,19 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="V37"/>
+	<classpathentry kind="src" path="V38"/>
+	<classpathentry kind="src" path="V39"/>
+	<classpathentry kind="src" path="Kattis"/>
+	<classpathentry kind="src" path="V40"/>
+	<classpathentry kind="src" path="klassuppgifter"/>
+	<classpathentry kind="src" path="V43"/>
+	<classpathentry kind="src" path="V45"/>
+	<classpathentry kind="src" path="V46"/>
+	<classpathentry kind="src" path="V49"/>
+	<classpathentry kind="src" path="V50"/>
+	<classpathentry kind="src" path="V3"/>
+	<classpathentry kind="src" path="V4"/>
+	<classpathentry kind="src" path="TallSpel"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
